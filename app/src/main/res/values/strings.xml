@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Constraints</string>
+    <string-array name="notification_list">
+       <item>All Rally</item>
+        <item>Updates</item>
+        <item>Admit Card</item>
+        <item>Result</item>
+        <item>Answer Key</item>
+    </string-array>
+    <string-array name="army_preparation_list">
+        <item>GD</item>
+        <item>Clerk</item>
+        <item>Technical</item>
+        <item>Tradesman</item>
+        <item>Assistant</item>
+        <item>Havildar</item>
+    </string-array>
+    <string-array name="quiz_name_list">
+        <item>GK Quiz</item>
+        <item>Science Quiz</item>
+        <item>English Quiz</item>
+        <item>Maths Quiz</item>
+        <item>Geography Quiz</item>
+    </string-array>
+</resources>
